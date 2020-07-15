@@ -2,12 +2,10 @@ name: deepfake-detection
 channels:
   - defaults
 dependencies:
-  - glib
   - h5py
   - hdf5
   - imagesize
   - intel-openmp
-  - jasper
   - jinja2
   - joblib
   - jpeg
